@@ -1,10 +1,7 @@
-# Railcraft for Minecraft 1.19
-
-[![Deploy Nightly](https://github.com/Sm0keySa1m0n/Railcraft/actions/workflows/nightly.yml/badge.svg)](https://github.com/Sm0keySa1m0n/Railcraft/releases/tag/nightly)
-[![CI Suite](https://github.com/Sm0keySa1m0n/Railcraft/actions/workflows/master.yml/badge.svg)](https://github.com/Sm0keySa1m0n/Railcraft/actions/workflows/master.yml)
+# Railcraft for Minecraft 1.19.2
 
 Here you will find the source and issue tracker for the **Official Railcraft Project**.
-
+### This is a Fork of the [Railcraft Reborn Project](https://github.com/railcraft-reborn/railcraft). I've created the version for 1.19.2 by taking the 1.19.x and setting the version to 1.19.2
 ## What is Railcraft?
 Railcraft is a mod written for the hit game [Minecraft](https://minecraft.net/). It is built on top of the [Minecraft Forge](https://github.com/MinecraftForge) API.
 
